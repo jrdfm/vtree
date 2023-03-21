@@ -1,4 +1,4 @@
-const MAX_LEN = 32;
+const MAX_LEN = 42;
 
 export class BBox {
   constructor(x=0, y=0, width=0, height=0) {
