@@ -13,7 +13,7 @@ import ObjectReader from './reader/object.js';
 import { visitAfter } from './util.js';
 
 
-const WIDTH = 960;
+const WIDTH = 1060;
 const HEIGHT = 800;
 const MARGIN = 20;
 
